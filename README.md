@@ -1,4 +1,4 @@
 # hello-world
-my first repository
+авада кедабра
 
 Happy new year!!!
